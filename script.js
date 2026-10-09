@@ -1,6 +1,6 @@
 // Brazzom settings: use only video content you own or are authorized to share.
 const MONETAG_URL = "https://uplcm.com/4/11706929";
-const VIDEO_URL = ""; // Add a direct browser-playable MP4 URL here.
+const VIDEO_URL = "https://docs.google.com/videos/d/1MHDAVcWEVIymxgpeUAQXxSkRrbW-XZnWb0W1rbNZhhA/play?usp=sharing"; // Add a direct browser-playable MP4 URL here.
 
 const video = document.getElementById("videoPlayer");
 const source = document.getElementById("videoSource");
